@@ -12,9 +12,11 @@ This project is a **UI and architecture demo** that showcases how a real-world a
 
 ### 📈 Dashboard & Financial Overview
 
-<img src="screenshots/current_state.png" width="200"/> 
-<img src="screenshots/current_state_2.png" width="200"/> 
-<img src="screenshots/current_state_3.png" width="200"/>
+<p align="center">
+  <img src="screenshots/current_state.png" width="240"/>
+  <img src="screenshots/current_state_2.png" width="240"/>
+  <img src="screenshots/current_state_3.png" width="240"/>
+</p>
 
 **Highlights:**
 - Current balance overview
@@ -26,8 +28,10 @@ This project is a **UI and architecture demo** that showcases how a real-world a
 
 ### 💸 Expenses & Sales
 
-<img src="screenshots/expenses.png" width="200"/> 
-<img src="screenshots/sales.png" width="200"/>
+<p align="center">
+  <img src="screenshots/expenses.png" width="240"/>
+  <img src="screenshots/sales.png" width="240"/>
+</p>
 
 **Features:**
 - Expense listing UI
@@ -39,8 +43,10 @@ This project is a **UI and architecture demo** that showcases how a real-world a
 
 ### 🏷 Products, Services & Inventory
 
-<img src="screenshots/services_products.png" width="200"/> 
-<img src="screenshots/warehouse.png" width="200"/>
+<p align="center">
+  <img src="screenshots/services_products.png" width="240"/>
+  <img src="screenshots/warehouse.png" width="240"/>
+</p>
 
 **Features:**
 - Products & services management UI
@@ -52,7 +58,9 @@ This project is a **UI and architecture demo** that showcases how a real-world a
 
 ### ☰ Menu & Navigation
 
-<img src="screenshots/menu.png" width="200"/>
+<p align="center">
+  <img src="screenshots/menu.png" width="240"/>
+</p>
 
 **Features:**
 - Centralized menu screen
@@ -72,8 +80,6 @@ This project is a **UI and architecture demo** that showcases how a real-world a
 ---
 
 ## 📦 Flutter Packages Used
-
-This project uses industry-standard Flutter packages commonly found in finance and accounting applications:
 
 ### 🧠 State Management & Architecture
 - **flutter_bloc** – Predictable and scalable state management  
